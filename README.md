@@ -26,6 +26,11 @@ If you would like to do this yourself, unpack a firmware.img file using `7z x -p
 
 Creality deleted older revisions of their Slicer from their downloads page, if any are missing and you can provide it, upload it somewhere and send a link to it.
 
+## Support
+
+If you'd like to support me for doing this work, some coffee money is always welcome. Thank you :)  
+https://ko-fi.com/a_v_x
+
 ## Thanks & Attribution
 
 * [*k3d*](https://www.youtube.com/@SorkinDmitry) & friends - for making available the initial exploit to gain root access
