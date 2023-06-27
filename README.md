@@ -13,7 +13,7 @@ I'm sure Creality is fine with their code and property being held to the same st
 
 ## Modifications
 
-Aside from creating this README.md, no other changes have been made by me to any file in this repository.
+Aside from creating this README.md, no other changes have been made by me to any file in this repository. However Creality shipped some *.git* repository folders which have been stripped.
 
 ## Contents
 
