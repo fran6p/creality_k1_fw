@@ -1,0 +1,2 @@
+*reality_*rint*.* filter=lfs diff=lfs merge=lfs -text
+CR4CU*.img filter=lfs diff=lfs merge=lfs -text
