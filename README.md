@@ -22,6 +22,10 @@ The folder *_sources* contains original firmware packages (sadly Creality does n
 The other folders represent the contents of the root filesystem as extracted from the firmware images.  
 If you would like to do this yourself, unpack a firmware.img file using `7z x -pPASSWORD firmware.img`, go into the resulting directory and `cat root* > rootfs.sqfs` and finally mount it `sudo mount -o loop rootfs.sqfs somewhere/`.
 
+## Missing files
+
+Creality deleted older revisions of their Slicer from their downloads page, if any are missing and you can provide it, please contact me.
+
 ## Thanks & Attribution
 
 * [*k3d*](https://www.youtube.com/@SorkinDmitry) & friends - for making available the initial exploit to gain root access
