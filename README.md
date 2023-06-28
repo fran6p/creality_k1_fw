@@ -24,7 +24,12 @@ If you would like to do this yourself, unpack a firmware.img file using `7z x -p
 
 ## Missing files
 
-Creality deleted older revisions of their Slicer from their downloads page, if any are missing and you can provide it, please contact me.
+Creality deleted older revisions of their Slicer from their downloads page, if any are missing and you can provide it, upload it somewhere and send a link to it.
+
+## Support
+
+If you'd like to support me for doing this work, some coffee money is always welcome. Thank you :)  
+https://ko-fi.com/a_v_x
 
 ## Thanks & Attribution
 
