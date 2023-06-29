@@ -1,5 +1,9 @@
 # Creality K1 firmwares
 
+# WARNING
+As of June 29 2023 the firmware update 1.2.9.21 is out and people report losing access to their machines after updating!  
+Do not update if you are not ok with possibly losing functionality! [Related thread on Reddit](https://www.reddit.com/r/crealityk1/comments/14m4fff/warning_firmware_12921_removes_root_and_fluidd/).
+
 ## Description
 This repository keeps track of firmware releases made by *Creality* for their *K1* 3D printer series.
 
