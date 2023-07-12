@@ -10,6 +10,8 @@ There is now a downgrade script in _sources/fake_firmware. Feel free to give it 
 ## Description
 This repository keeps track of firmware releases made by *Creality* for their *K1* 3D printer series.
 
+[xand3r40r93](https://github.com/xand3r40r93/) is doing similar work in his [CR4CU220812S11 repo](https://github.com/xand3r40r93/CR4CU220812S11) and might be more up to date/better for your needs, so check him out, too.
+
 ## License
 
 *It's complicated.*
