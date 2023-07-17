@@ -6,7 +6,7 @@ They  are **not optimized** in any way as of yet, the goal for now is to have so
 *Note*, these are only the binaries, you need to setup configfiles or similar yourself obviously. If in doubt, read the official documentations.
 
 # How where they made?
-Cross compiling using [buildroot](https://buildroot.org/) and the .config provided above.
+Cross compiling using [buildroot](https://buildroot.org/) and the .config provided above. They are statically linked against uclibc, not stripped, debug_info untouched. Compile yours differently if needed.
 
 # How to do it yourself?
 Grab a copy of buildroot, unpack it somewhere, place the .config in it, run `make menuconfig` and make changes as needed, run `make` and finally export the binaries.
